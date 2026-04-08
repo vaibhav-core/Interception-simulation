@@ -151,7 +151,7 @@ function sysCall_actuation()
         dir = {0, 0, 0}
     end
 
-    -- Move drone
+    -- Move drone to desired position
     local newPos = {
         dronePos[1] + dir[1]*droneSpeed*dt,
         dronePos[2] + dir[2]*droneSpeed*dt,
