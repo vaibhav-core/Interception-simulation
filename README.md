@@ -1,6 +1,22 @@
 # 🚁 Drone Intercept Simulation — CoppeliaSim
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Language](https://img.shields.io/badge/Language-Lua-blue.svg)](https://www.lua.org/)
+[![Simulator](https://img.shields.io/badge/Simulator-CoppeliaSim-orange.svg)](https://www.coppeliarobotics.com/)
+
 A CoppeliaSim simulation where a drone predicts and intercepts a moving target using quadratic intercept mathematics.
+
+*(Optional: Add a GIF/Screenshot of your simulation running here by replacing this line!)* 📸
+
+---
+
+## Quick Start
+
+The easiest way to run the simulation is using the provided `.ttt` scene file:
+1. Clone this repository or download the ZIP.
+2. Open CoppeliaSim.
+3. Open the scene `single_drone_single_target/single_drone_single_target.ttt`.
+4. Press **Play**!
 
 ---
 
