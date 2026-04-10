@@ -49,7 +49,7 @@ Scene
    - Menu → Add → Primitive Shape → Sphere (or any shape)
    - Rename it to `Target`
 4. Add a script to **Target**:
-   - Right-click `Target` in hierarchy → Add → Script → Simulation Script
+   - Right-click `Target` in hierarchy → Add → Script → Simulation Script->lua
    - Paste the Target script (see below)
 5. Add a script to **Drone**:
    - Right-click `Drone` in hierarchy → Add → Script → Simulation Script
